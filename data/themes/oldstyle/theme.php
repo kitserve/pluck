@@ -10,7 +10,7 @@ defined('IN_PLUCK') or exit('Access denied!'); ?><!DOCTYPE html PUBLIC "-//W3C//
 	<div class="header">
 		<div class="headerkop"><?php theme_sitetitle(); ?></div>
 		<div class="menu">
-			<?php theme_menu('ul', 'li', 'active', 0); ?>
+			<?php theme_menu('div', 'span', 'active', 0); ?>
 		</div>
 	</div>
 
